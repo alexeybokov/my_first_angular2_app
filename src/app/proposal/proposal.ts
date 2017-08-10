@@ -1,5 +1,5 @@
 export class Proposal {
-  construrtor(
+  constructor(
     public id?: number,
     public customer?: string,
     public portfolio_url: string = 'http://',
